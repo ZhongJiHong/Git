@@ -6,3 +6,5 @@ Git more.
 
 Learning Git? NO,just review.
 Git tracks changes.
+
+My boss is a stupid man,

@@ -5,3 +5,4 @@ Git clean.
 Git more.
 
 Learning Git? NO,just review.
+Git tracks changes.

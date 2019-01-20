@@ -8,4 +8,4 @@ Learning Git? NO,just review.
 Git tracks changes.
 
 My boss is a stupid man,
-Create a new 'dev' branch.
+Create a new 'dev' branch is Simple And Quick.

@@ -1,11 +1,1 @@
-Git is a distributed version control system.
-Git is a free software.
-
-Git clean.
-Git more.
-
-Learning Git? NO,just review.
-Git tracks changes.
-
-My boss is a stupid man,
-Create a new 'dev' branch is Simple & Quick.
+# Versions v1
